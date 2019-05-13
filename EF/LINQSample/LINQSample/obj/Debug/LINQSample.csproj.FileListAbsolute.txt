@@ -1,0 +1,13 @@
+C:\Projects\LINQSample\LINQSample\bin\Debug\LINQSample.exe.config
+C:\Projects\LINQSample\LINQSample\obj\Debug\LINQSample.csprojResolveAssemblyReference.cache
+C:\Projects\LINQSample\LINQSample\bin\Debug\LINQSample.exe
+C:\Projects\LINQSample\LINQSample\bin\Debug\LINQSample.pdb
+C:\Projects\LINQSample\LINQSample\obj\Debug\LINQSample.exe
+C:\Projects\LINQSample\LINQSample\obj\Debug\LINQSample.pdb
+C:\Users\Kairul\Downloads\LINQSample\LINQSample\bin\Debug\LINQSample.exe.config
+C:\Users\Kairul\Downloads\LINQSample\LINQSample\bin\Debug\LINQSample.exe
+C:\Users\Kairul\Downloads\LINQSample\LINQSample\bin\Debug\LINQSample.pdb
+C:\Users\Kairul\Downloads\LINQSample\LINQSample\obj\Debug\LINQSample.csprojAssemblyReference.cache
+C:\Users\Kairul\Downloads\LINQSample\LINQSample\obj\Debug\LINQSample.csproj.CoreCompileInputs.cache
+C:\Users\Kairul\Downloads\LINQSample\LINQSample\obj\Debug\LINQSample.exe
+C:\Users\Kairul\Downloads\LINQSample\LINQSample\obj\Debug\LINQSample.pdb
