@@ -1,0 +1,11 @@
+D:\DailyActivity\2019\5. May\2019-05-13\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\netcoreapp2.2\AsynchronousProgramming.deps.json
+D:\DailyActivity\2019\5. May\2019-05-13\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\netcoreapp2.2\AsynchronousProgramming.runtimeconfig.json
+D:\DailyActivity\2019\5. May\2019-05-13\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\netcoreapp2.2\AsynchronousProgramming.runtimeconfig.dev.json
+D:\DailyActivity\2019\5. May\2019-05-13\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\netcoreapp2.2\AsynchronousProgramming.dll
+D:\DailyActivity\2019\5. May\2019-05-13\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\netcoreapp2.2\AsynchronousProgramming.pdb
+D:\DailyActivity\2019\5. May\2019-05-13\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\netcoreapp2.2\AsynchronousProgramming.csprojAssemblyReference.cache
+D:\DailyActivity\2019\5. May\2019-05-13\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\netcoreapp2.2\AsynchronousProgramming.csproj.CoreCompileInputs.cache
+D:\DailyActivity\2019\5. May\2019-05-13\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\netcoreapp2.2\AsynchronousProgramming.AssemblyInfoInputs.cache
+D:\DailyActivity\2019\5. May\2019-05-13\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\netcoreapp2.2\AsynchronousProgramming.AssemblyInfo.cs
+D:\DailyActivity\2019\5. May\2019-05-13\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\netcoreapp2.2\AsynchronousProgramming.dll
+D:\DailyActivity\2019\5. May\2019-05-13\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\netcoreapp2.2\AsynchronousProgramming.pdb
