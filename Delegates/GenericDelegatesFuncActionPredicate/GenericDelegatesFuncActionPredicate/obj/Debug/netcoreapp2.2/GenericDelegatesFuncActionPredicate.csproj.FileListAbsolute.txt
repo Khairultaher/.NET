@@ -1,0 +1,11 @@
+D:\DailyActivity\2019\5. May\2019-05-13\GenericDelegatesFuncActionPredicate\GenericDelegatesFuncActionPredicate\bin\Debug\netcoreapp2.2\GenericDelegatesFuncActionPredicate.deps.json
+D:\DailyActivity\2019\5. May\2019-05-13\GenericDelegatesFuncActionPredicate\GenericDelegatesFuncActionPredicate\bin\Debug\netcoreapp2.2\GenericDelegatesFuncActionPredicate.runtimeconfig.json
+D:\DailyActivity\2019\5. May\2019-05-13\GenericDelegatesFuncActionPredicate\GenericDelegatesFuncActionPredicate\bin\Debug\netcoreapp2.2\GenericDelegatesFuncActionPredicate.runtimeconfig.dev.json
+D:\DailyActivity\2019\5. May\2019-05-13\GenericDelegatesFuncActionPredicate\GenericDelegatesFuncActionPredicate\bin\Debug\netcoreapp2.2\GenericDelegatesFuncActionPredicate.dll
+D:\DailyActivity\2019\5. May\2019-05-13\GenericDelegatesFuncActionPredicate\GenericDelegatesFuncActionPredicate\bin\Debug\netcoreapp2.2\GenericDelegatesFuncActionPredicate.pdb
+D:\DailyActivity\2019\5. May\2019-05-13\GenericDelegatesFuncActionPredicate\GenericDelegatesFuncActionPredicate\obj\Debug\netcoreapp2.2\GenericDelegatesFuncActionPredicate.csprojAssemblyReference.cache
+D:\DailyActivity\2019\5. May\2019-05-13\GenericDelegatesFuncActionPredicate\GenericDelegatesFuncActionPredicate\obj\Debug\netcoreapp2.2\GenericDelegatesFuncActionPredicate.csproj.CoreCompileInputs.cache
+D:\DailyActivity\2019\5. May\2019-05-13\GenericDelegatesFuncActionPredicate\GenericDelegatesFuncActionPredicate\obj\Debug\netcoreapp2.2\GenericDelegatesFuncActionPredicate.AssemblyInfoInputs.cache
+D:\DailyActivity\2019\5. May\2019-05-13\GenericDelegatesFuncActionPredicate\GenericDelegatesFuncActionPredicate\obj\Debug\netcoreapp2.2\GenericDelegatesFuncActionPredicate.AssemblyInfo.cs
+D:\DailyActivity\2019\5. May\2019-05-13\GenericDelegatesFuncActionPredicate\GenericDelegatesFuncActionPredicate\obj\Debug\netcoreapp2.2\GenericDelegatesFuncActionPredicate.dll
+D:\DailyActivity\2019\5. May\2019-05-13\GenericDelegatesFuncActionPredicate\GenericDelegatesFuncActionPredicate\obj\Debug\netcoreapp2.2\GenericDelegatesFuncActionPredicate.pdb
